@@ -1,0 +1,13 @@
+
+{
+  "name": "personal-messenger-bot",
+  "version": "1.0.0",
+  "description": "My Bengali Messenger Auto Reply Bot",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
